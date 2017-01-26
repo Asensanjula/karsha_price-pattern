@@ -10,7 +10,7 @@ console.log(ss);
 			
 			keys : {
 				x : 'date', // it's possible to specify 'x' when category axis
-				value : [ 'diffGain', 'diffLoss', 'peakGain', 'peakLoss','maxCount','minCount'],
+				value : [ 'maxCount','diffGain',  'peakGain','minCount','diffLoss', 'peakLoss'],
 				//value : [ 'peak_gain', 'peak_loss',],
 				//value : ['max_count','min_count'],
 			},
