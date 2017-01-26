@@ -67,6 +67,11 @@ console.log(ss);
 			
 			 
 		},
+		 bar: {
+		        width:{
+		        	ratio : 2
+		        }
+		    },
 		
 		tooltip : {
 		format : {
